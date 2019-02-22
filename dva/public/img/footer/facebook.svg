@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="29px" viewBox="0 0 29 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/social/facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M22.8000009,0 L6.00000024,0 C2.68680011,0 0,2.68680011 0,6.00000024 L0,22.8000009 C0,26.113201 2.68680011,28.8000011 6.00000024,28.8000011 L22.8000009,28.8000011 C26.114401,28.8000011 28.8000011,26.113201 28.8000011,22.8000009 L28.8000011,6.00000024 C28.8000011,2.68680011 26.114401,0 22.8000009,0 Z M19.2000008,8.40000033 L16.8912007,8.40000033 C16.1532006,8.40000033 15.6000006,8.70240035 15.6000006,9.46680038 L15.6000006,10.8000004 L19.2000008,10.8000004 L18.9144008,14.4000006 L15.6000006,14.4000006 L15.6000006,24.000001 L12.0000005,24.000001 L12.0000005,14.4000006 L9.60000038,14.4000006 L9.60000038,10.8000004 L12.0000005,10.8000004 L12.0000005,8.49240034 C12.0000005,6.06600024 13.2768005,4.80000019 16.1532006,4.80000019 L19.2000008,4.80000019 L19.2000008,8.40000033 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="footer/colorful" transform="translate(-1278.000000, -204.000000)">
+            <g id="icon/social/facebook" transform="translate(1278.000000, 204.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="icon/social/fb-icon" fill="#4D3157" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <g id="color/white" mask="url(#mask-2)" fill="#FFFFFF" fill-rule="evenodd">
+                    <rect x="0" y="0" width="29.0000012" height="29.0000012"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
